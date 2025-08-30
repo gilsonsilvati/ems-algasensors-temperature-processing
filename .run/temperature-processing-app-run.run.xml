@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="TemperatureProcessingApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+  <configuration default="false" name="temperature-processing-app-run" type="Application" factoryName="Application">
     <option name="MAIN_CLASS_NAME" value="com.algaworks.algasensors.temperature.processing.TemperatureProcessingApplication" />
     <module name="temperature-processing.main" />
     <option name="VM_PARAMETERS" value="-XX:MaxRAM=256m" />
