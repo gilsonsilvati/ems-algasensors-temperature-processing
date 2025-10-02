@@ -1,11 +1,11 @@
-package com.algaworks.algasensors.temperature.processing;
+package com.algaworks.algasensors.temperature.processing.common;
 
 import com.fasterxml.uuid.Generators;
 import com.fasterxml.uuid.impl.TimeBasedEpochRandomGenerator;
 
 import java.util.UUID;
 
-public class IdGenerator {
+public final class IdGenerator {
 
     private static final TimeBasedEpochRandomGenerator generator = Generators.timeBasedEpochRandomGenerator();
 
